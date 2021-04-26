@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Space+Mono');
+body {
+    width: 100%;
+}
+#header {
+    padding-left: 77px;
+    margin-top: 40px;
+    font-family: Inconsolata, Inconsolata;
+    font-weight: 700;
+    font-size: 24px;
+}
+#main {
+    margin-top: 10vh;
+}
+
+#alert{
+    font-family: 'Space Mono';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 94.78px;
+}
+
+#message{
+    font-family: 'Space Mono';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35.54px;
+    margin-top: 30px;
+}
+#scarecrow{
+    padding-left: 77px;
+    width:539.22px;
+    height: 447.43px;
+}
+
+#back{
+    font-family: 'Space Mono';
+    font-size: 700;
+    font-size: 14px;
+    line-height: 20.73px;
+    color: #FFF;
+    border:none;
+    padding: 24px 43px 23px 43px;
+    background-color: #333333;
+    margin-top: 60px;
+}
